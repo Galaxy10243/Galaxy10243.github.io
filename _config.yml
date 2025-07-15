@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小梦桐和小馥嘉的专属小屋
-subtitle: '我要把我的星球和玫瑰都给你'
-description: '文章技术与诸位分享'
-keywords: 深度学习,信号与系统,MCU,OS,SLAM,算法,英文转载
+title: GalaxyGeeks
+subtitle: '野生钢铁侠工作站'
+description: '热衷于电子软件的RMer'
+keywords: '深度学习,信号与系统,MCU,OS,SLAM,算法,英文转载'
 author: Galaxy
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://galaxyfly.xyz/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,9 +104,12 @@ theme: butterfly
 deploy:
   type: git
   repo: git@galaxyfly.xyz:/www/repo/hexo.git
+#  repo: https://github.com/Galaxy10243/Galaxy10243.github.io.git
   branch: master
 
 search:
-  path: search.xml
+  path: search.json
   field: post
   content: true
+  format: striptags
+
