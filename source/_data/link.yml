@@ -1,0 +1,23 @@
+- class_name: 我的其他网页
+  flink_style: flexcard
+  link_list:
+    - name: 哔哩哔哩
+      link: https://space.bilibili.com/1704621900
+      avatar: https://gitee.com/Galaxy10243/blog_image/raw/master/img/bilibili.webp
+      descr: 日常剪辑
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: Github
+      link: https://gitee.com/Galaxy10243/blog_image/raw/master/img/GitHub.webp
+      avatar: https://gitee.com/Galaxy10243/blog_image/raw/master/img/GitHub.webp
+      descr: 技术栈
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: Gitee
+      link: https://gitee.com/Galaxy10243
+      avatar: https://gitee.com/Galaxy10243/blog_image/raw/master/img/gitee.webp
+      descr: 技术栈
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: CSDN
+      link: https://blog.csdn.net/2302_79135989
+      avatar: https://gitee.com/Galaxy10243/blog_image/raw/master/img/csdn (1).webp
+      descr: 技术问题
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
